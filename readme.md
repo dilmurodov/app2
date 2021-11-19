@@ -32,8 +32,8 @@ all main fiels are inside django_website directory as it is main project
 ### URLs-
 - home- http://localhost:8000/
 - contact- http://localhost:8000/contact
-- login- http://localhost:8000/login
-- register- http://localhost:8000/register
+- login- http://localhost:8000/accounts/login
+- register- http://localhost:8000/accounts/register
 
 ### admin- http://localhost:8000/admin
 - user- admin
