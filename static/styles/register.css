@@ -1,0 +1,17 @@
+.container{
+    height: 100vh;
+    width: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.form{
+padding: 200px;
+}
+
+input{
+padding: 10px 30px;
+margin-bottom: 10px;
+border-radius: 10px;
+border-color: #dede;
+}
